@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w5lvrho2JxlWDm+9Ksy6Sv1lVhXAcraFzK6ARhdbLJ5KRsdt9mjp4G1PuEas10RVkYIBPkrbcaB9VEsMe3k4QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan\\source\\repos\\Ejemplo_Tabbed\\ejemploGit\\ejemploGit\\Ejemplo_Tabbed.iOS\\Ejemplo_Tabbed.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
