@@ -6,7 +6,7 @@
              Icon="icono">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Cambio de Datos2"
+            <Label Text="Cambio de Datos3"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
